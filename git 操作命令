@@ -8,3 +8,7 @@ git  add .
 git commit -m "注释"
 git log
 git push -u origin main
+
+
+https://github.com/wp155/wp_learn_git.git
+/c/Users/bubi/.ssh/id_rsa
